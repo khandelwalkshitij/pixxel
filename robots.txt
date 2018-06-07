@@ -1,0 +1,5 @@
+Sitemap: https://pixxel.co.in/sitemap.xml
+Sitemap: https://pixxel.co.in/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
